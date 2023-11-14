@@ -10,3 +10,9 @@ while(contador >= 1){
     console.log(contador)
     contador--
 }
+
+let i = 1
+while(i <= 1){
+    console.log("botafogo pipoqueiro")
+    i++
+}
